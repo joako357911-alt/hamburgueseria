@@ -11,4 +11,4 @@ Plataforma orientada al control de pedidos en mostrador, comandas de cocina y st
 2. `npm run dev`
 
 ## Vista previa
-![Captura de la app](./captura.png)
+![Captura de la app](./Captura%20de%20pantalla.png)
