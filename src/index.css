@@ -1,0 +1,18 @@
+:root {
+  --principal: #22456b;
+  --fondo: #f4f6f8;
+  --texto: #1a2028;
+  --radio: 8px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fondo);
+  color: var(--texto);
+  font-family: system-ui, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
